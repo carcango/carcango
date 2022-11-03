@@ -6,7 +6,7 @@
 
 ### 👨‍💻: &nbsp;About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver.
+I am a Software Developer from Vancouver.
 
 - 🔭 I’m currently studying Computer Systems Technology at BCIT
 - 👨‍🚀 The technology I'm most excited to learn and make projects with are VR and AR

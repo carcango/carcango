@@ -8,9 +8,10 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver.
 
-- 🔭 I’m currently getting my Computer Systems Technology Diploma at BCIT
+- 🔭 I’m currently studying Computer Systems Technology at BCIT
 - 👨‍🚀 The technology I'm most excited to learn and make projects with are VR and AR
 - 🌱 I love spending time exploring the outdoors doing sports such as trail runnng, skiing, and mountain biking
+- 🏊‍♂️ I recently retired from my career as a Pro Athlete for Team Canada (Swimming)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carsonolafson)
 
 ---

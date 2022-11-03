@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/carsonolafson"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### 👨‍💻: &nbsp;About Me :
@@ -13,7 +9,7 @@ I am a Software Developer from Vancouver.
 - 👨‍🚀 The technology I'm most excited to learn and make projects with are VR and AR
 - 🌱 I love spending time exploring the outdoors doing sports such as trail runnng, skiing, and mountain biking
 - 🏊‍♂️ I recently retired from my career as a Pro Athlete for [Team Canada](https://www.swimming.ca/en/swimmer/carson-olafson/)
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-carson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carsonolafson)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-carson olafson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carsonolafson)
 
 ---
 

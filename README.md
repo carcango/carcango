@@ -9,6 +9,7 @@
 I am a Software Developer from Vancouver.
 
 - 🔭 I’m currently studying Computer Systems Technology at BCIT
+- 💻 My favorite projects so far have been in Full Stack Web Development and Python programming.
 - 👨‍🚀 The technology I'm most excited to learn and make projects with are VR and AR
 - 🌱 I love spending time exploring the outdoors doing sports such as trail runnng, skiing, and mountain biking
 - 🏊‍♂️ I recently retired from my career as a Pro Athlete for [Team Canada](https://www.swimming.ca/en/swimmer/carson-olafson/)

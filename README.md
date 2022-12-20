@@ -1,4 +1,4 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### 👨‍💻: &nbsp;About Me :
 
@@ -10,6 +10,7 @@ I am a Software Developer from Vancouver.
 - 🌱 I love spending time exploring the outdoors doing sports such as trail runnng, skiing, and mountain biking
 - 🏊‍♂️ I recently retired from my career as a Pro Athlete for [Team Canada](https://www.swimming.ca/en/swimmer/carson-olafson/)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-carsonolafson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carsonolafson)
+- 💻 My personal [website](https://carsonolafson.com/)
 
 ---
 

@@ -65,7 +65,7 @@ const carson = {
       Next.js • React • PostgreSQL
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://chromewebstore.google.com/detail/truecost-price-to-investm/jaldojckkbnkanmoomabnilnjiohplhi">
         <img src="https://img.shields.io/badge/TrueCost-Investment%20Calculator-blue?style=for-the-badge" alt="TrueCost"/>
       </a>
       <br/>

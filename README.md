@@ -21,20 +21,20 @@
 
 ```typescript
 const carson = {
-    role: "Software Developer @ PHSA",
-    languages: ["Python", "Elixir", "Rust", "TypeScript"],
+    role: "Junior Application Programmer Analyst @ PHSA",
+    techStack: ["React", "TypeScript", "Next.js", "Python", "PL/SQL"],
     background: "Team Canada Athlete",
     currentFocus: "Healthcare Technology",
-    interests: ["Full Stack Dev", "Web3", "Healthcare Tech"],
-    funFact: "6th Place World Championship Finalist 🏊‍♂️"
+    interests: ["Full Stack Dev", "Healthcare Tech", "Developer Tools"],
+    funFact: "World Championship Finalist in Swimming 🏊‍♂️"
 };
 ```
 
 - 🏥 Developing healthcare platforms used by thousands of Community Health Workers
-- 🚀 Building [EarthChasers](https://earthchasers.com), a 3D geography game using Google Earth API
-- 💡 Working on TrueCost, a Chrome extension converting shopping prices to investment returns
+- 🌍 Created [EarthChasers](https://earthchasers.com), a 3D geography game with hundreds of users
+- 💰 Built [TrueCost](https://chromewebstore.google.com/detail/truecost-price-to-investm/jaldojckkbnkanmoomabnilnjiohplhi), a Chrome extension converting prices to investment returns
 - 🏊‍♂️ Former Team Canada swimmer (World Championship Finalist)
-- 🌲 Outdoor enthusiast - trail running, skiing, and mountain biking
+- 🎓 BCIT CST Graduate with Distinction
 
 ---
 
@@ -44,16 +44,16 @@ const carson = {
 
 | Category | Technologies |
 |----------|-------------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| Languages | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=flat&logo=oracle&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| Backend | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| Backend | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 </div>
 
 ---
 
-### 🚀 Latest Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
@@ -62,21 +62,18 @@ const carson = {
         <img src="https://img.shields.io/badge/EarthChasers-3D%20Geography%20Game-brightgreen?style=for-the-badge" alt="EarthChasers"/>
       </a>
       <br/>
-      Next.js • React • PostgreSQL
+      A 3D geography game with hundreds of users
+      <br/>
+      <sub>Next.js • React • PostgreSQL • Google Maps API</sub>
     </td>
     <td align="center">
       <a href="https://chromewebstore.google.com/detail/truecost-price-to-investm/jaldojckkbnkanmoomabnilnjiohplhi">
         <img src="https://img.shields.io/badge/TrueCost-Investment%20Calculator-blue?style=for-the-badge" alt="TrueCost"/>
       </a>
       <br/>
-      TypeScript • React • Chrome Extension
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/FuelLine-Price%20Tracker-orange?style=for-the-badge" alt="FuelLine"/>
-      </a>
+      Chrome extension for mindful spending
       <br/>
-      MongoDB • Google Maps API • JavaScript
+      <sub>TypeScript • React • Chrome Extension APIs</sub>
     </td>
   </tr>
 </table>
@@ -88,10 +85,10 @@ const carson = {
 <div align="center">
 
 ```text
-🏅 World Championship Finalist (6th place, 4x100m freestyle relay)
-🌍 Multiple-time Team Canada representative
-🏆 "Most Useful Application" Award winner among 55 teams at BCIT
-📚 BCIT CST Graduate with Distinction (87% GPA)
+🏅 World Championship Finalist (FINA World Championships)
+🌍 Commonwealth Games Finalist
+🏆 "Most Useful Application" Award winner at BCIT
+📚 Computer Systems Technology Graduate with Distinction
 ```
 
 </div>

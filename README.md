@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Carson Olafson</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Healthcare+Software+Developer;Full+Stack+Engineer;Former+Team+Canada+Athlete)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;TypeScript+%26+React+Engineer;Product-Focused+Developer)](https://git.io/typing-svg)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carsonolafson)
   [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=safari&logoColor=white)](https://carsonolafson.com)
@@ -10,16 +10,16 @@
 
 ## About Me
 
-Software Developer at Provincial Health Services Authority (PHSA), focusing on healthcare technology systems that serve thousands of community health workers. Former Team Canada athlete bringing exceptional discipline and performance under pressure to software development.
+Full Stack Developer with a track record of building scalable web applications and developer tools. Currently working at PHSA while developing successful side projects that showcase full-stack expertise. Former Team Canada athlete bringing exceptional focus and drive to software development.
 
 ```typescript
 const expertise = {
-    current: "Healthcare Software Development",
-    focus: ["Full Stack", "System Design", "Healthcare Tech"],
+    role: "Full Stack Developer",
+    focus: ["Web Applications", "Developer Tools", "System Design"],
     technologies: {
-        frontend: ["React", "TypeScript", "Next.js"],
-        backend: ["Python", "Node.js", "PL/SQL"],
-        databases: ["PostgreSQL", "Oracle"]
+        frontend: ["React", "TypeScript", "Next.js", "TailwindCSS"],
+        backend: ["Node.js", "Python", "PostgreSQL"],
+        tools: ["Git", "Docker", "AWS"]
     }
 };
 ```
@@ -27,47 +27,54 @@ const expertise = {
 ## Featured Projects
 
 ### [EarthChasers](https://earthchasers.com)
-A 3D geography game with growing user base
-- Built with Next.js, React, TypeScript, and Google Maps API
-- Implemented full-stack features from concept to deployment
-- PostgreSQL database with Supabase for scalable backend
+Modern web application with growing user base
+- Full-stack implementation using Next.js, React, and TypeScript
+- Real-time features using WebSocket connections
+- Complex 3D visualizations with Google Maps API
+- PostgreSQL database with Supabase for scalability
 - Organic growth to hundreds of active users
 
 ### [TrueCost](https://chromewebstore.google.com/detail/truecost-price-to-investm/jaldojckkbnkanmoomabnilnjiohplhi)
-Chrome extension for mindful financial decisions
-- Converts online shopping prices to potential investment returns
+Browser extension for investment calculations
 - Built with React and TypeScript
-- Published on Chrome Web Store
-- Clean, intuitive user interface
+- Complex state management and real-time calculations
+- Published and maintained on Chrome Web Store
+- Clean, modern UI with responsive design
 
 ## Technical Stack
 
-### Core Technologies
+### Frontend Development
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Development Tools
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Professional Achievements
+## Key Achievements
 
 **Technical Impact**
-- Developing healthcare platforms used by thousands of Community Health Workers
-- Winner of "Most Useful Application" Award at BCIT (among 55 teams)
+- Built and deployed multiple full-stack applications with active user bases
+- Developed enterprise-level software used by thousands of users
+- Winner of "Most Useful Application" Award (amongst 55 competing teams)
 - Computer Systems Technology Graduate with Distinction
 
-**Athletic Excellence**
-- World Championship Finalist (FINA World Championships)
-- Commonwealth Games Finalist
-- Multiple-time Team Canada Representative
+**Athletic Background**
+- World Championship Finalist
+- Competed internationally for Team Canada
+- Developed exceptional focus and performance under pressure
 
 <div align="center">
   <h3>Let's Connect</h3>
-  <sub>Open to collaboration and interesting projects in healthcare technology and web development</sub>
+  <sub>Open to collaboration and opportunities in full-stack development</sub>
 </div>

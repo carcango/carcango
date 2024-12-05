@@ -1,104 +1,73 @@
 <div align="center">
+  <h1>Carson Olafson</h1>
   
-  # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Software+Developer+%40+PHSA;Former+Team+Canada+Athlete;Full+Stack+Developer;Healthcare+Tech+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Healthcare+Software+Developer;Full+Stack+Engineer;Former+Team+Canada+Athlete)](https://git.io/typing-svg)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carsonolafson)
+  [![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=safari&logoColor=white)](https://carsonolafson.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carsonolafson@gmail.com)
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carsonolafson"><img src="https://img.shields.io/badge/-carsonolafson-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://carsonolafson.com"><img src="https://img.shields.io/badge/Website-carsonolafson.com-4CAF50?style=flat" alt="Website Badge"></a>
-  <a href="mailto:carsonolafson@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email Badge"></a>
-</p>
+## About Me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=carcango&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+Software Developer at Provincial Health Services Authority (PHSA), focusing on healthcare technology systems that serve thousands of community health workers. Former Team Canada athlete bringing exceptional discipline and performance under pressure to software development.
 
 ```typescript
-const carson = {
-    role: "Junior Application Programmer Analyst @ PHSA",
-    techStack: ["React", "TypeScript", "Next.js", "Python", "PL/SQL"],
-    background: "Team Canada Athlete",
-    currentFocus: "Healthcare Technology",
-    interests: ["Full Stack Dev", "Healthcare Tech", "Developer Tools"],
-    funFact: "World Championship Finalist in Swimming 🏊‍♂️"
+const expertise = {
+    current: "Healthcare Software Development",
+    focus: ["Full Stack", "System Design", "Healthcare Tech"],
+    technologies: {
+        frontend: ["React", "TypeScript", "Next.js"],
+        backend: ["Python", "Node.js", "PL/SQL"],
+        databases: ["PostgreSQL", "Oracle"]
+    }
 };
 ```
 
-- 🏥 Developing healthcare platforms used by thousands of Community Health Workers
-- 🌍 Created [EarthChasers](https://earthchasers.com), a 3D geography game with hundreds of users
-- 💰 Built [TrueCost](https://chromewebstore.google.com/detail/truecost-price-to-investm/jaldojckkbnkanmoomabnilnjiohplhi), a Chrome extension converting prices to investment returns
-- 🏊‍♂️ Former Team Canada swimmer (World Championship Finalist)
-- 🎓 BCIT CST Graduate with Distinction
+## Featured Projects
 
----
+### [EarthChasers](https://earthchasers.com)
+A 3D geography game with growing user base
+- Built with Next.js, React, TypeScript, and Google Maps API
+- Implemented full-stack features from concept to deployment
+- PostgreSQL database with Supabase for scalable backend
+- Organic growth to hundreds of active users
 
-### 🛠️ Tech Stack & Tools
+### [TrueCost](https://chromewebstore.google.com/detail/truecost-price-to-investm/jaldojckkbnkanmoomabnilnjiohplhi)
+Chrome extension for mindful financial decisions
+- Converts online shopping prices to potential investment returns
+- Built with React and TypeScript
+- Published on Chrome Web Store
+- Clean, intuitive user interface
 
-<div align="center">
+## Technical Stack
 
-| Category | Technologies |
-|----------|-------------|
-| Languages | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=flat&logo=oracle&logoColor=white) |
-| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| Backend | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+### Core Technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-</div>
+### Development Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+## Professional Achievements
 
-### 🚀 Featured Projects
+**Technical Impact**
+- Developing healthcare platforms used by thousands of Community Health Workers
+- Winner of "Most Useful Application" Award at BCIT (among 55 teams)
+- Computer Systems Technology Graduate with Distinction
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://earthchasers.com">
-        <img src="https://img.shields.io/badge/EarthChasers-3D%20Geography%20Game-brightgreen?style=for-the-badge" alt="EarthChasers"/>
-      </a>
-      <br/>
-      A 3D geography game with hundreds of users
-      <br/>
-      <sub>Next.js • React • PostgreSQL • Google Maps API</sub>
-    </td>
-    <td align="center">
-      <a href="https://chromewebstore.google.com/detail/truecost-price-to-investm/jaldojckkbnkanmoomabnilnjiohplhi">
-        <img src="https://img.shields.io/badge/TrueCost-Investment%20Calculator-blue?style=for-the-badge" alt="TrueCost"/>
-      </a>
-      <br/>
-      Chrome extension for mindful spending
-      <br/>
-      <sub>TypeScript • React • Chrome Extension APIs</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Achievements
+**Athletic Excellence**
+- World Championship Finalist (FINA World Championships)
+- Commonwealth Games Finalist
+- Multiple-time Team Canada Representative
 
 <div align="center">
-
-```text
-🏅 World Championship Finalist (FINA World Championships)
-🌍 Commonwealth Games Finalist
-🏆 "Most Useful Application" Award winner at BCIT
-📚 Computer Systems Technology Graduate with Distinction
-```
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-  
-  ### Let's Connect! 
-  
-  <sub>💬 Feel free to reach out for collaborations or just a friendly chat!</sub>
+  <h3>Let's Connect</h3>
+  <sub>Open to collaboration and interesting projects in healthcare technology and web development</sub>
 </div>
